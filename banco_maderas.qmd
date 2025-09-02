@@ -1,0 +1,101 @@
+---
+title: "Banco de madera — Estimación de medidas y despiece"
+lang: es
+toc: true
+format:
+  html: default
+  pdf: default
+  docx: default
+---
+
+> Documento con **medidas estimadas** a partir de la imagen de referencia. Se asumen secciones estándar indicadas abajo.
+
+## Supuestos generales (estimaciones)
+- Nº de listones superiores: **6**  
+- Ancho listón: **65 mm** | Separación: **12 mm** | Espesor: **20 mm**  
+- Larguero lateral: **90 x 20** | Travesaño: **70 x 20**  
+- Pata: **40 x 40** (en parejas, 3 marcos)  
+- Altura total: **350 mm**, altura de pata = altura total – espesor tapa.  
+- Los marcos de patas se ubican a **100 mm** de cada extremo (L=1600) y **80 mm** (L=1200), con un tercer marco al centro.
+
+## 1) Banco 1600 x 450 x 350 (mm)
+### Tabla de medidas principales
+| Parámetro                                   | Valor          |
+|:--------------------------------------------|:---------------|
+| Longitud total (mm)                         | 1600           |
+| Ancho total (mm)                            | 450            |
+| Alto total (mm)                             | 350            |
+| Ancho calculado por listones + juntas (mm)  | 450            |
+| Nº listones superiores                      | 6              |
+| Ancho listón (mm)                           | 65             |
+| Separación entre listones (mm)              | 12             |
+| Espesor listón (mm)                         | 20             |
+| Sección largueros laterales (mm)            | 90 x 20        |
+| Sección travesaños/batientes (mm)           | 70 x 20        |
+| Sección pata (mm)                           | 40 x 40        |
+| Altura pata (mm)                            | 330            |
+| Nº marcos de patas                          | 3              |
+| Posición centros marcos desde un canto (mm) | 100, 800, 1500 |
+| Luz entre marcos (mm)                       | 700 y 700      |
+| Nº tornillos (en tapa) estimado             | 18             |
+
+### Distancias entre filas de tornillos (en la tapa)
+|   Fila de tornillos (eje batiente) |   Distancia desde el canto (mm) |
+|-----------------------------------:|--------------------------------:|
+|                                  1 |                             100 |
+|                                  2 |                             800 |
+|                                  3 |                            1500 |
+
+### Despiece (corte) — 1600
+| Elemento                          |   Cantidad | Dimensiones / Nota               |
+|:----------------------------------|-----------:|:---------------------------------|
+| Listón superior                   |          6 | 1600 x 65 x 20 mm                |
+| Larguero lateral                  |          2 | 1600 x 90 x 20 mm                |
+| Travesaño/batiente                |          3 | 450 x 70 x 20 mm                 |
+| Pata                              |          6 | 330 x 40 x 40 mm                 |
+| Tornillo madera Ø4 x 50 mm (tapa) |         18 | Para fijar listones a travesaños |
+| Tornillo Ø5 x 70 mm (estructura)  |         24 | Patas y travesaños a largueros   |
+
+---
+
+## 2) Banco 1200 x 450 x 350 (mm)
+### Tabla de medidas principales
+| Parámetro                                   | Valor         |
+|:--------------------------------------------|:--------------|
+| Longitud total (mm)                         | 1200          |
+| Ancho total (mm)                            | 450           |
+| Alto total (mm)                             | 350           |
+| Ancho calculado por listones + juntas (mm)  | 450           |
+| Nº listones superiores                      | 6             |
+| Ancho listón (mm)                           | 65            |
+| Separación entre listones (mm)              | 12            |
+| Espesor listón (mm)                         | 20            |
+| Sección largueros laterales (mm)            | 90 x 20       |
+| Sección travesaños/batientes (mm)           | 70 x 20       |
+| Sección pata (mm)                           | 40 x 40       |
+| Altura pata (mm)                            | 330           |
+| Nº marcos de patas                          | 3             |
+| Posición centros marcos desde un canto (mm) | 80, 600, 1120 |
+| Luz entre marcos (mm)                       | 520 y 520     |
+| Nº tornillos (en tapa) estimado             | 18            |
+
+### Distancias entre filas de tornillos (en la tapa)
+|   Fila de tornillos (eje batiente) |   Distancia desde el canto (mm) |
+|-----------------------------------:|--------------------------------:|
+|                                  1 |                              80 |
+|                                  2 |                             600 |
+|                                  3 |                            1120 |
+
+### Despiece (corte) — 1200
+| Elemento                          |   Cantidad | Dimensiones / Nota               |
+|:----------------------------------|-----------:|:---------------------------------|
+| Listón superior                   |          6 | 1200 x 65 x 20 mm                |
+| Larguero lateral                  |          2 | 1200 x 90 x 20 mm                |
+| Travesaño/batiente                |          3 | 450 x 70 x 20 mm                 |
+| Pata                              |          6 | 330 x 40 x 40 mm                 |
+| Tornillo madera Ø4 x 50 mm (tapa) |         18 | Para fijar listones a travesaños |
+| Tornillo Ø5 x 70 mm (estructura)  |         24 | Patas y travesaños a largueros   |
+
+## Notas
+- El **ancho calculado** por listones y juntas debe coincidir con 450 mm; si difiere ±5 mm, ajuste mínimamente el ancho de junta (±1–2 mm) o cepille el último listón.
+- Para uso exterior, preferir tornillería y herrajes inoxidables o galvanizados y aplicar sellador en cantos.
