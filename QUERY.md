@@ -56,8 +56,20 @@ hacer scrpt para extraer el país (ultima parte de la cadena de texto ,)
 
 > trabajo sobre afiliaciones
 
-> trabajo sobre investigadores activos en grupos en minciencias
+# trabajo sobre investigadores activos en grupos en minciencias
 
+
+
+> trabajo sobre afiliaciones
+
+
+# Investigadores
+
+> trabajo sobre investigadores activos en grupos en minciencias
+Ante la ausencia de un directorio de actores a nivel individual, se opto por identificar individuos que reportan afiliación con la institución a partir de fuentes de información externa o registros administrativos.
+> se sugiere actualizar esta información, esto incide no solo en la política de ciencia abierta, sino en la configuración de estrategias que inciden en los procesos de generación, circulación y divulgación de conocimiento en diferentes canales, incluidos las vias y las práctivas de ciencia abierta.
+Para esta parte del análisis, se han seleccionado el conjunto de investigadores activos a la fecha, vinculados a grupos de investigación reconocidos o clasificados en la última convocatoria de medición de grupos e investigadores de MinCiencias, que presento resultados parciales en septiembre de 2025. 
+ 
  # archivos de scripts - FIS
 
  --1. count articulos x autor - year
