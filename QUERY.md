@@ -2,6 +2,7 @@ sobre la base de datos de scopus
 
 se cambio la base de datos, de los 684 articulos, de los cuales 378 son open access
 hay una nueva versión, con split por issn
+hacer un split para el issn,, para evitar inconvenientes cuando se alimente la tabla de JO_scimgo9924.db (strctr crtxt_mngr)
 
 hay una base de jo_scimago para la informacion de las revistas
 traer la información de referencia para las revistas
@@ -12,8 +13,14 @@ qry: listado de revistas: source_title + issn + isbn
 
 qry1: el resultado de articulos por revista por año 
 
-tabla de frecuencias
-hacer un split para el issn,, para evitar inconvenientes
+## carga de datos de scimago journal
+
+las variables claves aqui son:
+
+## areas y categorias de conocimiento
+## pais editor
+## quartil
+
 
 
 unir con informacion sjr, para revistas de qry1
