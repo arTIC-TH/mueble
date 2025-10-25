@@ -18,9 +18,23 @@ qry1: el resultado de articulos por revista por año
 
 ```
 
-## carga de datos de scimago journal
+## carga de datos de scimago journal (base scimagojo-9924a.db src: crtxt_mngr)
 
 las variables claves aqui son:
+A_JO_AREA_U  (with split)
+A_JO_Categoria  (with split)
+A_JO_Citable  
+A_JO_Country  
+A_JO_H_index  
+A_JO_ISIPubdate  
+A_JO_ISSN  (with split)
+A_JO_SJR  
+A_JO_SJR_Best_Quartile  
+A_JO_SourceId  
+A_JO_Title  
+A_JO_TotalDocs  
+A_JO_TotalRefs  
+A_JO_Year
 
 ## areas y categorias de conocimiento
 ## pais editor
