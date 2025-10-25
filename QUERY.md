@@ -13,6 +13,11 @@ qry: listado de revistas: source_title + issn + isbn
 
 qry1: el resultado de articulos por revista por año 
 
+
+```{sql}
+
+```
+
 ## carga de datos de scimago journal
 
 las variables claves aqui son:
